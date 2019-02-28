@@ -1,0 +1,5 @@
+com/bbd/modisa/services/Calculate.class
+com/bbd/modisa/db/Results.class
+com/bbd/modisa/model/GetDigits.class
+com/bbd/modisa/RunIt.class
+com/bbd/modisa/rest/Rest.class
